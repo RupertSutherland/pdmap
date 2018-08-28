@@ -5,5 +5,5 @@ Codes to accompany the paper by Haines and Sutherland (2018), Journal of Geophys
 
 The fortran codes are currently manually compiled and run from a linux script. Gmsh is also used.
 
-A python interface, tools to streamline the workflow, and better documentation are currently under development
+A python interface, tools to streamline the workflow, and better documentation are currently under development.
 - Contact Rupert Sutherland, Victoria University of Wellington.
