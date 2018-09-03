@@ -1,5 +1,5 @@
 # pdmap
-Thin sheet permanent deformation map with faults
+Thin sheet permanent deformation map with faults. 
 Codes to accompany the paper by Haines and Sutherland (2018), Journal of Geophysical Research: Solid Earth
 __________________________________________________________________________________________________________
 v01 - initial package with publication
